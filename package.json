@@ -1,0 +1,15 @@
+{
+  "name": "assistant-lgtv",
+  "version": "1.0.0",
+  "description": "LG Remote for assistant-plugins",
+  "author": "j3rem1e",
+  "main": "lgtv.js",
+  "repository": "https://github.com/j3rem1e/assistant-lgtv/",
+  "license": "MIT",
+  "dependencies": {
+    "node-ssdp": "^4.0.0",
+    "arp": "^0.0.3",
+    "node-wol": "^0.1.1",
+    "lgtv2": "^1.4.1"
+  }
+}
